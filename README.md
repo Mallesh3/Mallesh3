@@ -1,6 +1,6 @@
 ## Hi there 👋  
 <h1 align="center">Hi 👋, I'm R. Malleswar Reddy</h1>
-<h3 align="center">🎯 A Passionate Fresher Data Analyst | Turning Data into Decisions 📊 from India</h3>
+<h3 align="center">🎯 A Passionate Data Analyst | Turning Data into Decisions 📊 from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mallesh3&label=Profile%20views&color=0e75b6&style=flat" alt="mallesh3" /> 
