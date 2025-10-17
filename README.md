@@ -1,18 +1,11 @@
 <!-- 👋 Creative + Minimal GitHub README for a Data Analyst -->
 
-<h1 align="center">Hey there 👋, I'm R. Malleswar Reddy</h1>
-<h3 align="center">📊 Data Analyst | Turning Raw Data into Actionable Insights</h3>
+<h1 align="Center"> 👋Hey there,I'M so glad you're here!</h1>
+<h3 align="left"> 👋Welcome to my Little Corner of Github</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallesh3&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+📊Data Analyst | Turning Raw Data into Actionable Insights.
 
----
-### 🧠 About Me  
-
-Hey there 👋 — I’m **R. Malleswar Reddy**, a **Data Analyst** passionate about turning raw data into meaningful insights and smarter business decisions.  
-
-💡 I love exploring numbers, patterns, and trends — the kind that turn confusion into clarity. My work revolves around simplifying data, automating processes, and building dashboards that tell stories with impact.  
+💡 I love exploring numbers, patterns, and trends — the kind that turn confusion into clarity. My work revolves around simplifying data, automating processes, and building dashboards that tell stories with impact.
 
 Here’s what I’m all about:  
 - 🧩 Skilled in **Python**, **SQL**, **Excel**, and **Power BI** — from cleaning messy datasets to building actionable dashboards.  
@@ -26,15 +19,21 @@ Here’s what I’m all about:
 🌱 *Let’s connect, learn, and grow together — one dataset at a time.* 🌸  
 
 ---
-
 ### 🧰 Tech Stack  
+
+💼 Tools & technologies I use to explore, analyze, and visualize data:  
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
 
 ---
 
