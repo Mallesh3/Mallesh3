@@ -1,93 +1,76 @@
-## Hi there 👋  
-<h1 align="center">Hi 👋, I'm R. Malleswar Reddy</h1>
-<h3 align="center">🎯 A Passionate Data Analyst | Turning Data into Decisions 📊 from India</h3>
+<!-- 👋 Creative + Minimal GitHub README for a Data Analyst -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mallesh3&label=Profile%20views&color=0e75b6&style=flat" alt="mallesh3" /> 
+<h1 align="center">Hey there 👋, I'm R. Malleswar Reddy</h1>
+<h3 align="center">📊 Data Analyst | Turning Raw Data into Actionable Insights</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mallesh3&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 👨‍💻 All of my projects are available at [Portfolio](#)
+### 🧠 About Me  
+- 🎓 Passionate about **Data Analytics & Business Intelligence**  
+- 🧩 Skilled in **Python**, **SQL**, **Excel**, and **Power BI**  
+- 🔍 I uncover insights that drive **data-informed decisions**  
+- 🚀 Currently learning **Power Query & Advanced Excel automation**  
+- 💬 Ask me about: *Data cleaning, dashboards, and storytelling with data*  
+- 📫 Reach me at **rmalleswarreddy@gmail.com**  
+- ⚡ Fun fact: *“Data is the new oil — but insight is the new gold.”*
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Passionate about **Data Analytics & Business Intelligence**  
-- 🧠 Skilled in **Python**, **SQL**, **Excel**, and **Power BI**  
-- 📈 I love exploring data to find insights and stories hidden within numbers  
-- 🚀 Currently learning **Advanced Excel automation & Power Query**  
-- 💬 Ask me about: *Data cleaning, dashboards, and storytelling with data*  
-- 📫 How to reach me: **rmalleswarreddy@gmail.com**  
-- 📄 Know about my experiences [Resume Link](#)  
-- ⚡ Fun fact: **“Data is the new oil, but insight is the new gold.”**
+### 💼 Featured Projects  
+| 🔹 Project | 🧰 Tools | 📄 Description |
+|------------|----------|----------------|
+| **Sales Insights Dashboard** | Power BI, SQL | Analyzed revenue & profit KPIs to identify sales opportunities. |
+| **Customer Churn Analysis** | Python (Pandas, Matplotlib) | Predicted churn patterns through EDA and visualization. |
+| **Retail Case Study** | SQL | Generated performance reports from transactional data. |
+| **Excel Automation** | Excel, VBA | Built interactive dashboards with formulas and slicers. |
+
+---
+
+### 🧰 Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/rmona-malleswar-reddy93900/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a> 
-  
-   <a href="mailto:rmalleswarreddy@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-    </a>
-    
-  <a href="https://github.com/mallesh3">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rmalleswarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mallesh3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools  
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/5c6df7f3-5262-4fb9-a1f9-aee317fcfaec" alt="powerbi" width="40" height="40"/>   
-  </a>
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/5ab395b3-7d14-417e-945f-482d68cd0166" alt="excel" width="40" height="40"/>
-  </a>
-   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/ff4ad9ef-780f-469e-af8f-d6e55e2abf0a"alt="tableau" width="40" height="40"/>  
-
-  </a>
-</p>
-
----
-
-### 💼 Projects  
-🌟 **Power BI Dashboard** – Sales Insights Dashboard analyzing trends and KPIs  
-📊 **Python EDA Project** – Customer Churn Analysis using Pandas & Matplotlib  
-🗂️ **SQL Case Study** – Querying retail dataset for profit & loss metrics  
-📈 **Excel Automation** – Created pivot dashboards with formulas and slicers  
-
----
-
-### 📊 GitHub Stats  
-
+### 📊 GitHub Highlights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mallesh3&show_icons=true&locale=en&theme=tokyonight" alt="mallesh3" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mallesh3&show_icons=true&locale=en&theme=tokyonight" alt="mallesh3" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mallesh3&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallesh3&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallesh3&theme=tokyonight" alt="mallesh3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mallesh3&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*  
+⭐ *Thanks for stopping by! Let’s connect and collaborate — one dataset at a time.*  
+
 
 
 
