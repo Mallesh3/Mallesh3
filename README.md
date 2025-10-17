@@ -8,25 +8,22 @@
 </p>
 
 ---
-
 ### 🧠 About Me  
-- 🎓 Passionate about **Data Analytics & Business Intelligence**  
-- 🧩 Skilled in **Python**, **SQL**, **Excel**, and **Power BI**  
-- 🔍 I uncover insights that drive **data-informed decisions**  
-- 🚀 Currently learning **Power Query & Advanced Excel automation**  
-- 💬 Ask me about: *Data cleaning, dashboards, and storytelling with data*  
-- 📫 Reach me at **rmalleswarreddy@gmail.com**  
-- ⚡ Fun fact: *“Data is the new oil — but insight is the new gold.”*
 
----
+Hey there 👋 — I’m **R. Malleswar Reddy**, a **Data Analyst** passionate about turning raw data into meaningful insights and smarter business decisions.  
 
-### 💼 Featured Projects  
-| 🔹 Project | 🧰 Tools | 📄 Description |
-|------------|----------|----------------|
-| **Sales Insights Dashboard** | Power BI, SQL | Analyzed revenue & profit KPIs to identify sales opportunities. |
-| **Customer Churn Analysis** | Python (Pandas, Matplotlib) | Predicted churn patterns through EDA and visualization. |
-| **Retail Case Study** | SQL | Generated performance reports from transactional data. |
-| **Excel Automation** | Excel, VBA | Built interactive dashboards with formulas and slicers. |
+💡 I love exploring numbers, patterns, and trends — the kind that turn confusion into clarity. My work revolves around simplifying data, automating processes, and building dashboards that tell stories with impact.  
+
+Here’s what I’m all about:  
+- 🧩 Skilled in **Python**, **SQL**, **Excel**, and **Power BI** — from cleaning messy datasets to building actionable dashboards.  
+- 📊 Experienced in crafting **data-driven insights** that guide business growth and strategy.  
+- ⚙️ Currently diving deeper into **Power Query** and **Advanced Excel automation**.  
+- 🗂️ I enjoy sharing what I learn — helping others navigate the world of analytics with ease.  
+- 💬 Ask me about *data storytelling, analytics workflows, or how to make dashboards actually useful*.  
+- 🎯 Goal: To bridge the gap between **data and decision-making** through clear, actionable insights.  
+- ✉️ Reach me at **rmalleswarreddy@gmail.com**  
+
+🌱 *Let’s connect, learn, and grow together — one dataset at a time.* 🌸  
 
 ---
 
@@ -37,7 +34,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -53,18 +49,6 @@
   <a href="https://github.com/mallesh3" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallesh3&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallesh3&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mallesh3&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 ---
